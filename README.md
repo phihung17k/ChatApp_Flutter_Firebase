@@ -1,16 +1,11 @@
-# chat
+The features:
 
-A new Flutter project.
+- Login by google
+  <img src="./external/login.png" alt="login" style="width: 25%; height: 25%;"/>
 
-## Getting Started
+- Search user by email
+  <img src="./external/search.gif" alt="search" style="width: 25%; height: 25%;"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Send and receive message
+  <img src="./external/send.gif" alt="send" style="width: 25%; height: 25%;"/>
+  <img src="./external/receive.gif" alt="receive" style="width: 25%; height: 25%;"/>
