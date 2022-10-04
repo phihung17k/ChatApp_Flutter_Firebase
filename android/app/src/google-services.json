@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817889532706",
+    "project_id": "chat-fbad7",
+    "storage_bucket": "chat-fbad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817889532706:android:29908b9ff282fb0136a37b",
+        "android_client_info": {
+          "package_name": "com.hungnp.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817889532706-cqvqli5uti68lm84hqg14ndc1csmiql6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungnp.chat",
+            "certificate_hash": "8ae14fc83e5ebdbe489e30970df2abe388f4fc8c"
+          }
+        },
+        {
+          "client_id": "817889532706-99r18i0rmh0ekurd83cd16v0ag4e797k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTqCYBLBOxoFD8sPigLMFH5YGSXBpmew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817889532706-99r18i0rmh0ekurd83cd16v0ag4e797k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
