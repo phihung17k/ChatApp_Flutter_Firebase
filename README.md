@@ -1,6 +1,7 @@
 The features:
 
 - Login by google
+<br/>
   <img src="./external/login.png" alt="login" style="width: 25%; height: 25%;"/>
 
 - Search user by email
